@@ -33,3 +33,4 @@ The testbench (APB_testbench.v) includes:
 * Timing and protocol behavior
 
 # Output
+![image alt](https://github.com/ArNaB7811/APB-Protocol/blob/61de3009a935fd2ab49bf5352d92b35001b7a64a/Screenshot%202025-07-11%20195126.png)
